@@ -1,0 +1,9 @@
+MIDlet-1: Picasa,/picasa-viewer-icon.png,com.nokia.example.picasaviewer.PicasaViewer
+MIDlet-Jar-Size: 246513
+MIDlet-Jar-URL: PicasaViewer.jar
+MIDlet-Name: PicasaViewer
+MIDlet-Permissions: javax.microedition.io.Connector.http
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.1
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
