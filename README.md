@@ -15,8 +15,8 @@ separately: Nokia Asha used LCDUI and Android used the Android UI library.
 This example application is hosted in GitHub:
 https://github.com/nokia-developer/picasa-viewer
 
-For more information on the implementation, visit the wiki pages:
-https://github.com/nokia-developer/picasa-viewer/wiki
+For more information on the implementation, visit Java Developer's Library:
+http://developer.nokia.com/Resources/Library/Java/#!code-examples/web-services-picasaviewer.html
 
 
 What's new in version 1.1
